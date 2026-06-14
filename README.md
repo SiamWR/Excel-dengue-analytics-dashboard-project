@@ -1,4 +1,4 @@
-# Excel-dengue-analytics-dashboard-project
+# Dengue-analytics-dashboard-project_Excel
 Interactive Excel dashboard for analyzing dengue cases in Dhaka City, featuring patient demographics, geographic distribution, diagnostic markers, and public health insights.
 ## Overview
 
